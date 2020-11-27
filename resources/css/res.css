@@ -1,0 +1,215 @@
+/* // Small devices (landscape phones, 576px and up) */
+
+@media (max-width: 576px) {
+    .social-icon {
+        padding-left: 130px;
+    }
+    .content {
+        padding-left: 80px;
+    }
+    .content h1 {
+        font-size: 65px;
+    }
+    .content p {
+        width: 84%;
+    }
+    .banner-btn {
+        padding-left: 132px;
+    }
+    .email-section {
+        height: 60vh;
+    }
+    .input-group {
+        padding-top: 20px;
+        border-radius: 60px;
+    }
+    .contact-card {
+        margin-top: 20px;
+    }
+}
+
+
+/* // Small devices (landscape phones, 576px and up) */
+
+@media (min-width: 576px) {
+    .social-icon {
+        padding-left: 52px;
+    }
+    .content {
+        padding-left: 0px;
+    }
+    .content h1 {
+        font-size: 65px;
+    }
+    .content p {
+        width: 84%;
+    }
+    .banner-btn {
+        padding-left: 3px;
+    }
+    .email-section {
+        height: 60vh;
+    }
+    .input-group {
+        padding-top: 20px;
+        border-radius: 60px;
+    }
+    .contact-card {
+        margin-top: 20px;
+    }
+    .client-desc {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .client-desc p {
+        padding: 0px 2px;
+    }
+    .align {
+        position: relative;
+        padding-top: 10px;
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+}
+
+
+/* // Medium devices (tablets, 768px and up) */
+
+@media (min-width: 768px) {
+    .social-icon {
+        padding-left: 100px;
+    }
+    .content {
+        padding-left: 50px;
+    }
+    .content h1 {
+        font-size: 80px;
+    }
+    .content p {
+        width: 75%;
+    }
+    .banner-btn {
+        padding-left: 121px;
+    }
+    /* === about === */
+    .about-btn {
+        padding-top: 30px;
+    }
+    .about-btn .btn2 {
+        margin-top: 20px;
+        margin-left: 0px;
+    }
+    .card {
+        width: 100%;
+    }
+    .servic-card {
+        background: #020413;
+        padding: 0px;
+    }
+    .servic-card p {
+        padding-bottom: 30px;
+    }
+    .client-desc {
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+    .email-section {
+        height: 40vh;
+    }
+    .input-group {
+        padding-top: 80px;
+        border-radius: 60px;
+    }
+    .align {
+        position: relative;
+        padding-top: 10px;
+        margin-left: 300px;
+        margin-right: 300px;
+    }
+}
+
+
+/* // Large devices (desktops, 992px and up) */
+
+@media (min-width: 992px) {
+    .social-icon {
+        padding-left: 200px;
+    }
+    .content {
+        padding-left: 90px;
+    }
+    .content h1 {
+        font-size: 80px;
+    }
+    .content p {
+        width: 63%;
+    }
+    .banner-btn {
+        padding-left: 200px;
+    }
+    .about-btn {
+        padding-top: 30px;
+    }
+    .about-btn .btn2 {
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+    .card {
+        width: 100%;
+    }
+    .servic-card {
+        background: #020413;
+        padding: 40px;
+    }
+    .client-desc {
+        border: 1px solid #117bfb;
+        padding-top: 80px;
+        margin-left: 150px;
+        margin-right: 150px;
+        padding-bottom: 20px;
+    }
+    .align {
+        position: relative;
+        padding-top: 10px;
+        margin-left: 420px;
+        margin-right: 420px;
+    }
+}
+
+
+/* // Extra large devices (large desktops, 1200px and up) */
+
+@media (min-width: 1200px) {
+    .social-icon {
+        padding-left: 200px;
+    }
+    .content h1 {
+        font-size: 80px;
+    }
+    .content p {
+        width: 53%;
+    }
+    .banner-btn {
+        padding-left: 200px;
+    }
+    .about-btn {
+        padding-top: 30px;
+    }
+    .client-desc {
+        border: 1px solid #117bfb;
+        padding-top: 80px;
+        margin-left: 150px;
+        margin-right: 150px;
+        padding-bottom: 20px;
+    }
+    .align {
+        position: relative;
+        padding-top: 10px;
+        margin-left: 500px;
+        margin-right: 500px;
+    }
+    .align img {
+        text-align: center;
+        position: absolute;
+    }
+}
